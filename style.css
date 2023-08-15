@@ -3,15 +3,15 @@ html {
 }
 body {
     font-family: lato, serif;
-    width: 940px;
-    margin: 0 150px;
+    margin: auto;
+    min-width: 1000px;
     line-height: normal;
 }
 .container {
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 .content-box {
     background: #fff;
@@ -23,7 +23,7 @@ body {
 .portfolio-box {
     background: rgba(187, 187, 187, 0.5);
     border-radius: 15px;
-    width: 1320px;
+    width: 900px;
     padding: 15px 15px;
     margin-top: 30px;
 }
@@ -286,4 +286,46 @@ strong {
     font-size: 1.3rem;
     font-weight: bold;
     margin: 15px 0;
+}
+.portfolio-box h2 {
+    font-size: 2.5rem;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    background-color: #fff;
+    border-radius: 15px;
+    padding:  5px 10px;
+}
+.todo-app {
+    background-color: #fff;
+    border-radius: 15px;
+    padding:  5px 10px;
+    margin-bottom: 10px;
+}
+.todo-app h3 {
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin: 15px 0;
+}
+.imagem-todo-app {
+    width: 850px;
+    height: 657px;
+    margin-left: 10px;
+    
+}
+.game-pong {
+    background-color: #fff;
+    border-radius: 15px;
+    padding:  5px 10px;
+    margin-bottom: 10px;
+}
+.game-pong h3 {
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin: 15px 0;
+}
+.imagem-pong {
+    width: 850px;
+    height: 568px;
+    margin-left: 10px;
 }
