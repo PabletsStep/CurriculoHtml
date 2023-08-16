@@ -324,8 +324,40 @@ strong {
     font-weight: bold;
     margin: 15px 0;
 }
-.imagem-pong {
+.game-pong iframe {
     width: 850px;
-    height: 568px;
+    height: 500px;
+    margin-left: 10px;
+}
+.game-freeway {
+    background-color: #fff;
+    border-radius: 15px;
+    padding:  5px 10px;
+    margin-bottom: 10px;
+}
+.game-freeway h3 {
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin: 15px 0;
+}
+.game-freeway iframe {
+    width: 850px;
+    height: 500px;
+    margin-left: 10px;
+}
+.barbearia-alura {
+    background-color: #fff;
+    border-radius: 15px;
+    padding:  5px 10px;
+    margin-bottom: 10px;
+}
+.barbearia-alura h3 {
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin: 15px 0;
+}
+.imagem-barbearia {
+    width: 800px;
+    height: 600px;
     margin-left: 10px;
 }
