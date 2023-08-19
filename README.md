@@ -4,7 +4,7 @@
 Projeto que mostra meu cúrriculo com as minhas competências atualizadas.<br>
 Juntamente com meus projetos mais recentes.
 Link para acesso:
-* https://pabletsstep.github.io/Portfolio/
+* https://pabletsstep.github.io/portfoliov1/
 
 <!--## :books: Funcionalidades
 //* <b>Funcionalidade 1</b>: O que essa funcionalidade faz?-->
