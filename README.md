@@ -19,7 +19,7 @@ Para rodar o repositório é apenas necessário clonar o mesmo.
 git clone https://github.com/PabletsStep/CurriculoHtml.git
 ```
 ## :soon: Implementação futura
-* Dinamização da página em Javascript
+* Dinamização da página em Javascript.
 
 ## :handshake: Colaboradores
 <table>
