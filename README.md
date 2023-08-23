@@ -36,4 +36,4 @@ git clone https://github.com/PabletsStep/CurriculoHtml.git
 </table>
 
 ## :dart: Status do projeto
-* Concluído
+* Concluído.
